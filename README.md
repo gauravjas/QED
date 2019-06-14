@@ -9,7 +9,7 @@ Environment setup:
    
 Run the following command to clone the source code from github:
           
-          https://github.com/gauravjas/Qed.git
+          git clone https://github.com/gauravjas/Qed.git
           
           
 Run the following command to install the keras, flask and other dependency modules:
