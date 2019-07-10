@@ -164,9 +164,9 @@ class WordGloveChatBot(object):
         return target_text.strip()
 
     def test_run(self):
-        print(self.reply('Hey'))
-        print(self.reply('How are you doing?'))
-        print(self.reply('how are you?'))
+        print(self.reply('what is an eviction notice'))
+        print(self.reply('what are some suggestion when going to court'))
+        print(self.reply('reasons for evicting a tenant'))
 
 
 def main():
